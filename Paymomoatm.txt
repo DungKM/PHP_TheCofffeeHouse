@@ -1,0 +1,50 @@
+9704 0000 0000 0018
+
+NGUYEN VAN A
+
+03/07
+
+OTP	
+
+
+0917003003
+
+
+vnpay
+
+
+Ngân hàng	NCB
+Số thẻ	9704198526191432198
+Tên chủ thẻ	NGUYEN VAN A
+Ngày phát hành	07/15
+Mật khẩu OTP	123456
+
+
+paypal
+
+dungdz@personal.example.com
+
+'N&w]H8j
+
+http://localhost/PHP%20DOC/Web_coffee_main/index.php?act=checkout&
+
+partnerCode=MOMOBKUN20180529
+
+&orderId=1670468982&requestId=1670468982
+
+&amount=10000&
+
+orderInfo=Thanh+to%C3%A1n+qua+MoMo
+
+&orderType=momo_wallet&
+
+transId=2809554348&resultCode=0
+
+
+payType=napas&
+
+admin 
+
+vole543215@gmail.com
+
+ 	333
